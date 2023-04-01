@@ -1,0 +1,12 @@
+{
+    "name":"night house",
+    "description":"the house near the sea",
+    "image":"https://ipfs.io/ipfs/QmavFvczV83KbwS2gN8b8DEaRafi2ph796bZmX8i5WwjjK",
+    "attributes":[{
+        "trait_type":"dark",
+        "value":1
+    },{
+        "trait_type":"background",
+        "value":"black"
+    }]
+}
